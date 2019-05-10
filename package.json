@@ -1,0 +1,38 @@
+{
+  "name": "test3",
+  "version": "1.0.0",
+  "description": "test3",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerjBaturin/test3.git"
+  },
+  "keywords": [
+    "test3",
+    "task"
+  ],
+  "author": "SerjBaturin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerjBaturin/test3/issues"
+  },
+  "homepage": "https://github.com/SerjBaturin/test3#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "browser-sync": "^2.26.5",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2"
+  }
+}
